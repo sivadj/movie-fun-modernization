@@ -2,6 +2,8 @@ package org.superbiz.moviefun;
 
 import org.junit.Test;
 
+import org.superbiz.moviefun.service.ServiceCredentials;
+
 import static org.hamcrest.core.IsEqual.equalTo;
 import static org.junit.Assert.*;
 
